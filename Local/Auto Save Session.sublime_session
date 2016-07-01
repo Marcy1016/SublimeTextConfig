@@ -1,0 +1,840 @@
+{
+	"folder_history":
+	[
+		"/C/Users/13H023/AntColonyOptimization"
+	],
+	"last_version": 3114,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 781.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "git",
+				"selected_items":
+				[
+					[
+						"git",
+						"Git: Init"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"git:",
+						"Git: Init"
+					],
+					[
+						"g",
+						"Git: Init"
+					],
+					[
+						"p",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: I",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 375.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = 'Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(’ ’, ’%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb’ ).write(by)",
+					"ls",
+					"import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = 'Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(’ ’, ’%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb’ ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/13H023/Desktop/HelloWorld",
+				"/C/Users/13H023/AppData/Roaming/Sublime Text 3/Packages/User/JavaExe.sublime-build"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 127.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/JavaExe.sublime-build",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\13H023\\Desktop\\HelloWorld"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1034.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "import java.util.*;\nimport java.io.*;\nimport java.awt.*;\nimport java.util.regex.*;\n\npublic class aco_2016_up//フェロモン蒸発調整あり\n{\n		// Grid\n	static int RUN;\n	static int run;\n	static int JOB;		//Number of jobs\n	static int job, jobi;	//Job's number\n	static int TASK[];			//Number of tasks\n	static int task,taski,taskj,beta; //Task's number\n	static int task_size[][]; //Task's size \n	static int task_volume[][];	//Task processing amount\n	static int LAYER[]; //Layer number of precedence constraint\n	static int layerjob; //Temporary value of LAYER[]\n	static int LAYER_MAX;\n	static int layer;	//Layer number\n	static int F_TASK[][];	//Smallest task number among the task group belonging to the each layer \n	static int TASK_MAX;\n	static int MACHINE;	//Number of machines\n	static int machine, machinei;	//Machine number\n	static double machine_size[]; //Machine's size\n	static int speed[];	//Processing speed of machine\n	\n		// ACO\n	static int K, k;   //The final number of generations, Generation number\n	static int ANT, ant;	//Number of ants \n	static double initial_pheromon;	//Initial accumulation pheromone\n	static double wariate_pheromon[][][];	//Accumulation pheromone of assignment node\n	static int syori;	//Processing order number\n	static double syori_pheromon[][][];	//Accumulation pheromone of processing order node\n	static int U, U_ub;	//Task total number\n	static int haichi;	//Arrangement order number\n	static double haichi_pheromon[][];	//Accumulation pheromone of arrangement order node\n	static int syori_select[][][][];	//Task selection matrix \n	static double sum;	//The sum of the accumulated pheromone\n	static int best_ant;	//The best of ant\n	static double r;	//Uniform random number of [0,1] interval\n	static double count;	//Cumulative total of node selection probability\n	static double syori_prob[][][];	//Processing order node selection probability\n	static int select_task[][][];	//Roulette of selected node (task)\n	static int task_list[][];	//Tasks list\n	static int haichi_select[][];	//Job selection vector(0 or 1)\n	static int haichi_num_task[];	//Deployed number of tasks\n	static int haichinumtask;\n	static double haichi_prob[][];	//Arrangement order node selection probability\n	static int select_job[][];	//Roulette of selected node (Job)\n	static int haichi_machine[][];	//Machine numbers are arranged in order of arrangement\n	static int haichimachine;\n	static int haichi_task[][];	//Task numbers are arranged in order of arrangement\n	static int haichitask;\n	static int haichi_job[][];	//Job numbers are arranged in order of arrangement\n	static int haichijob;\n	static double wariate_prob[][][];	//Assignment node selection probability\n	static int select_machine[][][];	//Roulette of selected node (Machine)\n	static int sigma[];	// Temporary value of processing end time of the job\n	static int layer_endtime[];	//Processing end time of the layer\n	static int layer_number[];	//Layer number\n	static int layernumber;\n	static int machine_endtime[];	//Processing end time of the machine\n	static int task_time[];	//Task processing time\n	static int temp;	//Temporary storage of the larger value\n	static int task_starttime[];	//Processing start time of task\n	static int task_endtime[];	//Processing end time of the task\n	static int latest_endtime[];	//Latest processing End Time => Evaluation value\n	\n	static double disp_pheromon[];	//Dispersal pheromone,Spraying of pheromone\n	static double parameter_a, parameter_b; //Parameters in the conversion formula from the evaluation value to application rate\n	static double evapo_syori, evapo_haichi, evapo_wariate;  //Evaporation rate of (processing order node,arrangement order node,Assignment node)\n	static double pmax[];	//Worst evaluation value\n	static double pmin[];	//Best evaluation value\n	static double pave[];	//Average rating value\n	static int best_haichi_task[][];	//Arrangement order task number of the best solution\n	static int besthaichitask;\n	static int best_haichi_job[][];	//Arrangement order job number of the best solution\n	static int besthaichijob;\n	static int best_haichi_machine[][];	//Arrangement order machine number of the best solution\n	static int besthaichimachine;\n	\n	//Output for all result\n	static double result_pmax[][];\n	static double result_pmin[][];\n	static double result_pave[][];\n	static int result_machine[];\n	static int result_job[];\n	static int result_task[];\n	static int result_ant[];\n	static BufferedReader br, br1, br2;\n	static String str;\n	\n	//main\n	public static void main(String args[]) throws IOException{\n\n	br  = new BufferedReader(new FileReader(args[0]));\n	br1 = new BufferedReader(new FileReader(args[1]));\n	br2 = new BufferedReader(new FileReader(args[2]));\n\n	try \n	{\n    	while ((str = br.readLine()) != null)\n    	{\n    	    switch (str)\n    	    {\n    	    	case \"ANT\":\n    	    		ANT = Integer.parseInt(br.readLine());\n    	    		System.out.println(ANT);\n        			break;\n        		case \"K\":\n    	    		K = Integer.parseInt(br.readLine());\n    	    		System.out.println(K);\n        			break;\n        		case \"JOB\":\n    	    		JOB = Integer.parseInt(br.readLine());\n    	    		System.out.println(JOB);\n        			break;\n        		case \"LAYER_MAX\":\n    	    		LAYER_MAX = Integer.parseInt(br.readLine());\n    	    		System.out.println(LAYER_MAX);\n        			break;\n        		case \"TASK_MAX\":\n    	    		TASK_MAX = Integer.parseInt(br.readLine());\n    	    		System.out.println(TASK_MAX);\n        			break;\n        		case \"MACHINE\":\n    	    		MACHINE = Integer.parseInt(br.readLine());\n    	    		System.out.println(MACHINE);\n        			break;\n        		case \"U_ub\":\n                    U_ub = Integer.parseInt(br.readLine());\n                    System.out.println(U_ub);\n                    break;\n        		\n        	}\n    	}\n\n    	while ((str = br1.readLine()) != null)\n    	{\n    		switch (str)\n    		{\n    			case \"initial_pheromon\":\n    	    		initial_pheromon = Double.parseDouble(br1.readLine());\n    	    		System.out.println(initial_pheromon);\n        			break;\n        		case \"parameter_a\":\n    	    		parameter_a = Double.parseDouble(br1.readLine());\n    	    		System.out.println(parameter_a);\n        			break;\n        		case \"parameter_b\":\n    	    		parameter_b = Double.parseDouble(br1.readLine());\n    	    		System.out.println(parameter_b);\n        			break;\n        		case \"evapo_syori\":\n    	    		evapo_syori = Double.parseDouble(br1.readLine());\n    	    		System.out.println(evapo_syori);\n        			break;\n        		case \"evapo_haichi\":\n    	    		evapo_haichi = Double.parseDouble(br1.readLine());\n    	    		System.out.println(evapo_haichi);\n        			break;\n        		case \"evapo_wariate\":\n    	    		evapo_wariate = Double.parseDouble(br1.readLine());\n    	    		System.out.println(evapo_wariate);\n        			break;\n        	}\n    	}\n	\n	//ANT =20;		// Ant number\n	//K   =10000;      // Generation number\n	//JOB =3;		//Job number	\n	RUN =1;\n	\n	//LAYER_MAX        =4;\n	//TASK_MAX         =30;\n	//MACHINE          =5;\n	//U_ub             =140;\n	//initial_pheromon =100.0;\n	//parameter_a      =100.0;\n	//parameter_b      =2.0;\n	\n	//evapo_syori   =0.2;\n	//evapo_haichi  =0.2;\n	//evapo_wariate =0.2;\n	\n	wariate_pheromon    =new double[MACHINE][TASK_MAX][JOB];\n	syori_pheromon      =new double[TASK_MAX][TASK_MAX][JOB];\n	haichi_pheromon     =new double[JOB][U_ub];\n	syori_select        =new int[TASK_MAX][TASK_MAX][JOB][ANT];\n	syori_prob          =new double[TASK_MAX][TASK_MAX][JOB];\n	select_task         =new int[TASK_MAX][JOB][ANT];\n	task_list           =new int[TASK_MAX][JOB];\n	haichi_select       =new int[JOB][ANT];\n	haichi_num_task     =new int[JOB];\n	haichi_prob         =new double[JOB][U_ub];\n	select_job          =new int[U_ub][ANT];\n	haichi_machine      =new int[U_ub][ANT];\n	haichi_task         =new int[U_ub][ANT];\n	haichi_job          =new int[U_ub][ANT];\n	wariate_prob        =new double[MACHINE][TASK_MAX][JOB];\n	select_machine      =new int[TASK_MAX][JOB][ANT];\n	layer_endtime       =new int[JOB];\n	layer_number        =new int[JOB];\n	sigma               =new int[JOB];\n	machine_endtime     =new int[MACHINE];\n	task_time           =new int[U_ub];\n	task_starttime      =new int[U_ub];\n	task_endtime        =new int[U_ub];\n	latest_endtime      =new int[ANT];\n	disp_pheromon       =new double[ANT];\n	pmax                =new double[K+1];\n	pmin                =new double[K+1];\n	pave                =new double[K+1];\n	best_haichi_task    =new int[U_ub][K+1];\n	best_haichi_job     =new int[U_ub][K+1];\n	best_haichi_machine =new int[U_ub][K+1];\n	\n	result_pmax    = new double [RUN][K+1];\n	result_pmin    = new double [RUN][K+1];\n	result_pave    = new double [RUN][K+1];\n	result_machine = new int [RUN];\n	result_job     = new int [RUN];\n	result_task    = new int [RUN];\n	result_ant     = new int [RUN];\n	\n	TASK         =new int[JOB];\n	task_size    =new int[TASK_MAX][JOB];\n	task_volume  =new int[TASK_MAX][JOB];\n	\n	LAYER        =new int[JOB];\n	F_TASK       =new int[LAYER_MAX+1][JOB];	\n	machine_size =new double[MACHINE];\n	speed        =new int[MACHINE];\n\n	while ((str = br2.readLine()) != null)\n	{\n		switch (str)\n		{\n			case \"TASK\":\n				for (job=0;job<JOB;job++)\n				{\n					TASK[job] = Integer.parseInt(br2.readLine());\n					System.out.println(TASK[job]);\n				}\n				break;\n			case \"task_size\":\n				for (job=0;job<JOB;job++)\n				{\n					for (task=0;task<TASK[job];task++)\n					{\n						task_size[task][job] = Integer.parseInt(br2.readLine());\n						System.out.println(task_size[task][job]);\n					}\n				}\n				break;\n			case \"task_volume\":\n				for (job=0;job<JOB;job++)\n				{\n					for (task=0;task<TASK[job];task++)\n					{\n						task_volume[task][job] = Integer.parseInt(br2.readLine());\n						System.out.println(task_volume[task][job]);\n					}\n				}\n				break;\n			case \"LAYER\":\n				for (job=0;job<JOB;job++)\n				{\n					LAYER[job] = Integer.parseInt(br2.readLine());\n					System.out.println(LAYER[job]);\n				}\n				break;\n			case \"F_TASK\":\n				for (job=0;job<JOB;job++)\n				{\n					for (layer=0;layer<LAYER_MAX;layer++)\n					{\n						F_TASK[layer][job] = Integer.parseInt(br2.readLine());\n						System.out.println(F_TASK[layer][job]);\n					}\n				}\n				break;\n			case \"machine_size\":\n				for (machine=0;machine<MACHINE;machine++)\n				{\n					machine_size[machine] = Double.parseDouble(br2.readLine());\n					System.out.println(machine_size[machine]);\n				}\n				break;\n			case \"speed\":\n				for (machine=0;machine<MACHINE;machine++)\n				{\n					speed[machine] = Integer.parseInt(br2.readLine());\n					System.out.println(speed[machine]);\n				}\n				break;\n		}\n	}\n\n\n	}\n	finally \n	{\n    	br.close();\n    	br1.close();\n    	br2.close();\n	}\n\n	\n//	String filename     = \"result_upver(\"+args[0].replace(\".txt\", \"_\")+args[1].replace(\".txt\", \"_\")+args[2].replace(\".txt\", \")\");//\"result(20,0.2,#2Anew_add)\";\n	String filename = \"upver\";\n	String filename_ext = \".csv\" ;\n	\n	//Initialization of nodes\n	//start Initialization of the assignment node\n	for(run=0;run<RUN;run++){\n		for(job=0;job<JOB;job++){\n			for(task=0;task<TASK[job];task++){\n				for(machine=0;machine<MACHINE;machine++){\n					if(task_size[task][job]<=machine_size[machine]){\n						wariate_pheromon[machine][task][job]=initial_pheromon;\n					}\n					else{\n							wariate_pheromon[machine][task][job]=0.0;\n					}	\n				}\n			}\n		}//end\n	\n	//start initialization of the processing order node \n		for(job=0; job<JOB;job++){\n			for(syori=0; syori<TASK[job];syori++){\n				for(taski=0; taski<TASK[job];taski++){\n					syori_pheromon[taski][syori][job]=initial_pheromon;\n				//System.out.println(\" initial_pheromon= \"+initial_pheromon);\n				}\n			}\n		}//end\n		//start Initialization of the arrangement order node\n		U=0;\n		for(job=0; job<JOB;job++){\n			U+=TASK[job];\n		}\n		for(haichi=0; haichi<U;haichi++){\n			for(job=0;job<JOB;job++){ \n				haichi_pheromon[job][haichi]=initial_pheromon;\n			}\n		}//end\n		\n		double best_min_time = K;// 6/22追加 534行　ベスト戦略のための変数\n\n	// file open\n	PrintWriter pw=new PrintWriter(new BufferedWriter(new FileWriter(filename+filename_ext)));	\n		for(k=0;k<=K;k++){\n		//Initialization of the selection matrix\n			\n			int haichi_job_select[][][] = new int[JOB][U_ub][ANT]; //6/29追加　配置ノードのために必要\n			//haichi_job_select[JOB][U_ub][ANT]の初期値代入\n			for(ant=0;ant<ANT;ant++){\n				for(job=0;job<JOB;job++){\n					for(haichi=0;haichi<U_ub;haichi++){\n						haichi_job_select[job][haichi][ant]=1;\n					}\n				}\n			}\n			\n			\n			for(ant=0;ant<ANT;ant++){	//start Setting Initialization of the selection matrix\n				for(job=0;job<JOB;job++){\n					for(taskj=0;taskj<TASK[job];taskj++){\n						for(taski=0;taski<TASK[job];taski++){\n							syori_select[taski][taskj][job][ant]=0;\n						}\n					}\n					layerjob=LAYER[job];\n					F_TASK[0][job]=0;\n					F_TASK[layerjob][job]=TASK[job];\n		\n					for(layer=0;layer<LAYER[job];layer++){\n						for(taskj=F_TASK[layer][job];taskj<F_TASK[layer+1][job];taskj++){\n							for(taski=F_TASK[layer][job];taski<F_TASK[layer+1][job];taski++){\n								syori_select[taski][taskj][job][ant]=1;\n							}\n						}\n					}\n				}//end\n			}//end\n			\n			for(ant=0;ant<ANT;ant++){		\n			//Processing order node\n				for(job=0;job<JOB;job++){\n					for(syori=0;syori<TASK[job];syori++){\n					// Start the calculation of selection probability\n						sum=0.0;\n						for(task=0;task<TASK[job];task++){\n							sum+=syori_pheromon[task][syori][job]*syori_select[task][syori][job][ant];\n						}\n						for(task=0;task<TASK[job];task++){\n							syori_prob[task][syori][job]=syori_pheromon[task][syori][job]\n							*syori_select[task][syori][job][ant]/sum;\n						}//end \n						// modification of roulette selection and selection matrix\n						//from here roulette selection\n						r=Math.random();\n						count=0.0;\n						for(taski=0;taski<TASK[job];taski++){\n							count+=syori_prob[taski][syori][job];\n							if(count>r)break;\n						}//end of roulette selection\n						select_task[syori][job][ant]=taski; //Selection task is taski \n						task_list[syori][job]=taski; //Registration to the task list of the selected task\n						// from here modification of the selection matrix\n						for(taskj=syori;taskj<TASK[job];taskj++){\n							syori_select[taski][taskj][job][ant]=0;\n						}//end \n					//}//end\n					}\n		\n				}// processing order node is end	\n		\n				\n				\n			//Arrangement order node\n				for(job=0;job<JOB;job++){\n			\n					haichi_select[job][ant]=1;\n					haichi_num_task[job]=0;\n				}\n				for(haichi=0;haichi<U;haichi++){\n					sum=0.0;//Start the calculation of selection probability\n					for(job=0;job<JOB;job++){\n						sum+=haichi_pheromon[job][haichi]*haichi_select[job][ant];\n					}\n					for(job=0;job<JOB;job++){				\n						haichi_prob[job][haichi]=haichi_pheromon[job][haichi]*haichi_select[job][ant]/sum;\n					}//end of the calculation\n					//from here roulette selection\n					r=Math.random();\n					count=0.0;\n					for(jobi=0;jobi<JOB;jobi++){\n						count+=haichi_prob[jobi][haichi];\n						if(count>r)break;\n					}//end of roulette selection\n		\n					select_job[haichi][ant]=jobi;	\n					//Sequence of tasks and jobs at arrangement order \n					haichinumtask            = haichi_num_task[jobi];\n					haichi_task[haichi][ant] =task_list[haichinumtask][jobi];\n					haichi_job[haichi][ant]  =jobi;\n					haichi_num_task[jobi]++;\n					if(haichi_num_task[jobi] >= TASK[jobi]){\n						for(int i=haichi;i<U;i++){\n							haichi_job_select[jobi][i][ant]=0;\n						}\n					haichi_select[jobi][ant]=0;				\n					}\n				}//Arrangement order node is end\n			//Assignment node\n				for(job=0;job<JOB;job++){\n					for(task=0;task<TASK[job];task++){\n						sum=0.0;//Start the calculation of selection probability\n						for(machine=0;machine<MACHINE;machine++){\n							sum+=wariate_pheromon[machine][task][job];\n						}\n						for(machine=0;machine<MACHINE;machine++){\n						wariate_prob[machine][task][job]=wariate_pheromon[machine][task][job]/sum;\n						}//end of the calculation\n						//from here roulette selection\n						r=Math.random();\n						count=0.0;\n						for(machinei=0;machinei<MACHINE;machinei++){\n							count+=wariate_prob[machinei][task][job];\n							if(count>r)break;\n						}//end of roulette selection\n						select_machine[task][job][ant]=machinei;\n					}\n				}\n				//start sequence of machine at arrangement order \n				for(haichi=0;haichi<U;haichi++){\n					haichitask=haichi_task[haichi][ant];\n					haichijob=haichi_job[haichi][ant];\n					haichi_machine[haichi][ant]=select_machine[haichitask][haichijob][ant];	\n				}//end\n				//Assignment node is end\n				\n			//Gantt charts\n				for(job=0;job<JOB;job++){\n					layer_endtime[job]   =-1;\n					layer_number[job]    =0;\n					haichi_num_task[job] =0;\n					sigma[job]           =0;\n				}\n				for(machine=0;machine<MACHINE;machine++){\n					machine_endtime[machine] =-1;\n				}\n\n				for(haichi=0;haichi<U;haichi++){\n				\n					haichitask        =haichi_task[haichi][ant];\n					haichijob         =haichi_job[haichi][ant];\n					haichimachine     =haichi_machine[haichi][ant];\n					layernumber       =layer_number[haichijob];\n					task_time[haichi] =(int)Math.ceil(task_volume[haichitask][haichijob]\n					/speed[haichimachine]);\n					\n					temp                           =Math.max(layer_endtime[haichijob],machine_endtime[haichimachine]);\n					task_starttime[haichi]         =temp+1;\n					task_endtime[haichi]           =temp+task_time[haichi];\n					machine_endtime[haichimachine] =task_endtime[haichi];\n					\n					sigma[haichijob] =Math.max(sigma[haichijob],task_endtime[haichi]);\n					haichi_num_task[haichijob]++;\n					\n					if(haichi_num_task[haichijob]==F_TASK[layernumber+1][haichijob]){\n						layer_endtime[haichijob] =sigma[haichijob];\n						layer_number[haichijob]++;\n					}\n				}\n				latest_endtime[ant]=0;\n				for(job=0;job<JOB;job++){\n					if(layer_endtime[job]>latest_endtime[ant]){\n						latest_endtime[ant]=layer_endtime[job];\n					}\n				}\n				disp_pheromon[ant]=parameter_a-parameter_b*latest_endtime[ant];\n				if(disp_pheromon[ant]<=1.0){\n				disp_pheromon[ant]=1.0;  // 6/22   508,509行　変更点0.0 => 1.0\n				}//gantt charts is end\n			}//ant loop is finish\n			\n			\n\n			//6/22 エリート戦略　1番のアリにフェロモンを2倍まかせる\n			double min_latest_endtime = latest_endtime[0];\n			int min_ant = 0;\n			for(ant=1;ant<ANT;ant++){\n				if(min_latest_endtime > latest_endtime[ant]){\n					min_latest_endtime = latest_endtime[ant];\n					min_ant = ant;\n				}\n			}\n			\n			if(best_min_time > min_latest_endtime){\n				best_min_time = min_latest_endtime;\n				if(k > 100){\n					disp_pheromon[min_ant] *= 3;\n				}\n			}\n		//Pheromone update\n			//from here processing order node's update\n			for(job=0;job<JOB;job++){\n				for(syori=0;syori<TASK[job];syori++){\n					for(task=0;task<TASK[job];task++){\n						for(ant=0;ant<ANT;ant++){	//from here start the evaporation of node accumulation pheromone\n							syori_pheromon[task][syori][job]\n								*=(1.0-syori_select[task][syori][job][ant]*evapo_syori/ANT);//syori_select[task][syori][job][ant]* の部分が変更ありの状態\n						}//end the evaporation of node\n						for(ant=0;ant<ANT;ant++){//from here Pheromone spray to the node\n							if(task==select_task[syori][job][ant]){\n								syori_pheromon[task][syori][job]+=disp_pheromon[ant];\n							}	\n						}\n					}	\n				}\n			}			\n			for(haichi=0;haichi<U;haichi++){\n				for(job=0;job<JOB;job++){\n					for(ant=0;ant<ANT;ant++){\n						haichi_pheromon[job][haichi]*=(1.0-haichi_job_select[job][haichi][ant]*evapo_haichi/ANT);\n					}\n				}\n				for(job=0;job<JOB;job++){\n					for(ant=0;ant<ANT;ant++){\n						if(job==select_job[haichi][ant]){\n							haichi_pheromon[job][haichi]+=disp_pheromon[ant];\n						}\n					}\n				}\n			}\n			for(job=0;job<JOB;job++){\n				for(task=0;task<TASK[job];task++){\n					for(machine=0;machine<MACHINE;machine++){\n						wariate_pheromon[machine][task][job]*=(1.0-evapo_wariate);\n					}\n				}\n				for(task=0;task<TASK[job];task++){\n					for(machine=0;machine<MACHINE;machine++){\n						for(ant=0;ant<ANT;ant++){\n							if(machine==select_machine[task][job][ant]){\n								wariate_pheromon[machine][task][job]+=disp_pheromon[ant];\n							}\n						}\n					}\n				}\n			}\n\n			pmax[k] =-10000.0;\n			pmin[k] =10000.0;\n			pave[k] =0.0;\n		\n			for(ant=0;ant<ANT;ant++){\n				if(pmax[k]<latest_endtime[ant]){\n					pmax[k]=latest_endtime[ant];\n				}\n				if(pmin[k]>latest_endtime[ant]){\n					pmin[k]  =latest_endtime[ant];\n					best_ant =ant;\n				}\n				pave[k]+=latest_endtime[ant];\n			}\n			pave[k]=pave[k]/ANT;\n			\n			System.out.println(\"K \" +k+\" Generation best = \"+pmin[k]);\n			System.out.println(\"K \" +k+\" Generation bad  = \"+pmax[k]);\n			System.out.println(\"K \" +k+\" Generation ave  = \"+pave[k]+\"\\n\");\n		\n			if(k==0){\n				pw.println(\"Machine= \" + machine + \",\" +\"Job= \"+job+\",\"+ \"Task= \"+task+ \",\" + \"Ant= \"+ant+ \",\" );\n				pw.print(\"K\"+\",\"+\" Best\" +\",\"+\" Bad\"+\" ,\"+\" Average\");		\n				pw.println(\"\");\n				result_machine[run] =machine;\n				result_job[run]     =job;\n				result_task[run]    =task;\n				result_ant[run]     =ant;\n			}\n			pw.print(k+\",\" +pmin[k]+ \",\" +pmax[k]+ \",\"+pave[k]+ \",\");\n			pw.println(\"\");	\n			result_pmin[run][k] =pmin[k];\n			result_pmax[run][k] =pmax[k];\n			result_pave[run][k] =pave[k];\n		\n		\n			for(haichi=0;haichi<U;haichi++){  \n				best_haichi_task[haichi][k]    =haichi_task[haichi][best_ant];\n				best_haichi_job[haichi][k]     =haichi_job[haichi][best_ant];\n				best_haichi_machine[haichi][k] =haichi_machine[haichi][best_ant];\n			\n			}\n	\n		}//k close\n	\n	\n//gantt chart of the best solution in the final generation \n		for(job=0;job<JOB;job++){\n			layer_endtime[job]   =-1;\n			layer_number[job]    =0;\n			haichi_num_task[job] =0;\n			sigma[job]           =0;\n	\n		}\n		for(machine=0;machine<MACHINE;machine++){\n			machine_endtime[machine] =-1;\n		}\n		pw.print(\"haichi \"+\",\"+\" Machine \"+\",\"+\" Job \"+\",\"+\" Task\"+\",\"+\" Start Time \"+\",\"+\" End Time\");\n		pw.println(\"\");	\n		for(haichi=0;haichi<U;haichi++){\n			besthaichitask                     =best_haichi_task[haichi][K];	\n			besthaichijob                      =best_haichi_job[haichi][K];\n			besthaichimachine                  =best_haichi_machine[haichi][K];\n			layernumber                        =layer_number[besthaichijob];\n			task_time[haichi]                  =(int)Math.ceil(task_volume[besthaichitask][besthaichijob]/speed[besthaichimachine]);\n			temp                               =(int)Math.max(layer_endtime[besthaichijob],machine_endtime[besthaichimachine]);\n			task_starttime[haichi]             =temp+1;\n			task_endtime[haichi]               =temp+task_time[haichi];\n			machine_endtime[besthaichimachine] =task_endtime[haichi];\n			sigma[besthaichijob]               =Math.max(sigma[besthaichijob],task_endtime[haichi]);\n		\n			haichi_num_task[besthaichijob]++;\n			if(haichi_num_task[besthaichijob]==F_TASK[layernumber+1][besthaichijob]){\n			layer_endtime[besthaichijob] =sigma[besthaichijob];\n			layer_number[besthaichijob]++;\n			}		\n			pw.println(\"\");\n			pw.print(haichi+\" , \" +best_haichi_machine[haichi][K]+\" , \" +best_haichi_job[haichi][K]+\" , \" +best_haichi_task[haichi][K]+\" , \" +task_starttime[haichi]+\" , \" +task_endtime[haichi]+\" , \");\n		}\n		pw.close();\n	}//end of run\n	\n	PrintWriter result_pw=new PrintWriter(new BufferedWriter(new FileWriter(\"other\"+filename+filename_ext)));	\n	\n	result_pw.println(\"RUN, MACHINE, JOB, TASK, ANT\");\n	for(run=0; run<RUN; run++){\n		result_pw.println(run + \",\" + result_machine[run] + \",\" + result_job[run] + \",\" + result_task[run] + \",\" + result_ant[run]);\n	}\n	result_pw.println(\" \");\n	\n	//min\n	result_pw.println(\"min output\");\n	result_pw.print(\"K \");\n	for(run=0; run<RUN; run++){\n		result_pw.print(\", run=\" + run);\n	}\n	for(k=0; k<=K; k++){\n		result_pw.println(\" \");\n		result_pw.print( k );\n		for(run=0; run<RUN; run++){\n			result_pw.print(\",\"+ result_pmin[run][k]);\n		}\n	}\n	\n	result_pw.println(\" \");\n	result_pw.println(\" \");\n	//max\n	result_pw.println(\"max output\");\n	result_pw.print(\"K \");\n	for(run=0; run<RUN; run++){\n		result_pw.print(\", run=\" + run);\n	}\n	for(k=0; k<=K; k++){\n		result_pw.println(\" \");\n		result_pw.print( k );\n		for(run=0; run<RUN; run++){\n			result_pw.print(\",\"+ result_pmax[run][k]);\n		}\n	}\n	\n	result_pw.println(\" \");\n	result_pw.println(\" \");\n	//Ave\n	result_pw.println(\"ave output\");\n	result_pw.print(\"K \");\n	for(run=0; run<RUN; run++){\n		result_pw.print(\", run=\" + run);\n	}\n	for(k=0; k<=K; k++){\n		result_pw.println(\" \");\n		result_pw.print( k );\n		for(run=0; run<RUN; run++){\n			result_pw.print(\",\"+ result_pave[run][k]);\n		}\n	}\n	\n	result_pw.close();\n	\n} // main close\n} // class close\n\n\n\n",
+					"file": "/C/Users/13H023/AntColonyOptimization/aco_2016_up.java",
+					"file_size": 25018,
+					"file_write_time": 131118140807556448,
+					"settings":
+					{
+						"buffer_size": 24193,
+						"line_ending": "Windows",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/C/Users/13H023/AntColonyOptimization/aco_2016_upver.java",
+					"settings":
+					{
+						"buffer_size": 1355,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "import java.util.*;\nimport java.awt.*;\nimport java.io.*;\n\npublic class aco_2016_upver {\n  public static void main(String args[]) throws IOException{\n	\n  // ファイル読み込みのための宣言、代入\n    br = new BufferdReader(new FileReader(args[0]));\n    br1 = new BufferdReader(new FileReader(args[1]));\n    br2 = new BufferdReader(new FileReader(args[2]));\n		\n		String str;\n		int INT;\n		int\n		\n		try{\n			while((str == br.readLine()) != null){\n				switch(str){\n				case \"ANT\":	ANT= Integer.parseInt(br.readLine());\n							System.out.println(ANT);\n							break;\n				case \"K\":\n    	    		K = Integer.parseInt(br.readLine());\n    	    		System.out.println(K);\n        			break;\n        		case \"JOB\":\n    	    		JOB = Integer.parseInt(br.readLine());\n    	    		System.out.println(JOB);\n        			break;\n        		case \"LAYER_MAX\":\n    	    		LAYER_MAX = Integer.parseInt(br.readLine());\n    	    		System.out.println(LAYER_MAX);\n        			break;\n        		case \"TASK_MAX\":\n    	    		TASK_MAX = Integer.parseInt(br.readLine());\n    	    		System.out.println(TASK_MAX);\n        			break;\n        		case \"MACHINE\":\n    	    		MACHINE = Integer.parseInt(br.readLine());\n    	    		System.out.println(MACHINE);\n        			break;\n        		case \"U_ub\":\n                    U_ub = Integer.parseInt(br.readLine());\n                    System.out.println(U_ub);\n                    break;\n				}\n			}\n			\n		}\n	}\n}\n",
+					"file": "/C/Users/13H023/Desktop/タスクスケジューリング・ゼミ/2016TS/aco_2016_upver.java",
+					"file_size": 1450,
+					"file_write_time": 131118143533379003,
+					"settings":
+					{
+						"buffer_size": 1381,
+						"line_ending": "Windows",
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "git: c",
+				"selected_items":
+				[
+					[
+						"git: c",
+						"Git: Commit"
+					],
+					[
+						"git: a",
+						"Git: Add All"
+					],
+					[
+						"git",
+						"Git: Init"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"git:",
+						"Git: Init"
+					],
+					[
+						"g",
+						"Git: Init"
+					],
+					[
+						"p",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: I",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 375.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = 'Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(’ ’, ’%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb’ ).write(by)",
+					"ls",
+					"import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = 'Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(’ ’, ’%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb’ ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/13H023/AntColonyOptimization"
+			],
+			"file_history":
+			[
+				"/C/Users/13H023/Desktop/HelloWorld",
+				"/C/Users/13H023/AppData/Roaming/Sublime Text 3/Packages/User/JavaExe.sublime-build"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\13H023\\AntColonyOptimization"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/13H023/AntColonyOptimization/aco_2016_up.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 24193,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1276,
+										1276
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+											"1":
+											[
+												122,
+												123
+											]
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"in_converting": true,
+									"origin_encoding": "SHIFT_JIS",
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/13H023/AntColonyOptimization/aco_2016_upver.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1355,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										574,
+										574
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1335,
+												1336
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												436,
+												437
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 90.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/13H023/Desktop/タスクスケジューリング・ゼミ/2016TS/aco_2016_upver.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1381,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										1381
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"in_converting": true,
+									"origin_encoding": "SHIFT_JIS",
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 127.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 100.0
+			},
+			"pinned_build_system": "Packages/User/JavaExe.sublime-build",
+			"position": "0,0,1,-1,-1,-1,-1,1023,343,183,1809",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\13H023\\Desktop\\HelloWorld"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
